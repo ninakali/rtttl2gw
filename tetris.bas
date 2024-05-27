@@ -1,0 +1,5 @@
+1 PLAY "L4 O4 T160 O5 e L8 O4 b O5 c d L16 e d L8 c O4 b L4 a "
+2 PLAY "L4 O4 T160 L8 a O5 c L4 e L8 d c L4 O4 b L8 b O5 c L4 d "
+3 PLAY "L4 O5 T160 e c O4 a L2 a p8 L4 O5 d L8 f L4 a L8 g f L4 e "
+4 PLAY "L4 O5 T160 L8 e c L4 e L8 d c L4 O4 b L8 b O5 c L4 d e "
+5 PLAY "L4 O5 T160 c O4 a a "
